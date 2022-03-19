@@ -1,0 +1,2 @@
+Procfiles can contain additional process types. 
+For example, you might declare one for a background worker process that processes items off of a queue.
